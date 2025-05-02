@@ -4,6 +4,7 @@ author: gordon.coulter@zenzero.co.uk
 createdOn: 2025-05-01
 checkedOn:
 checkedBy:
+tags:
 ---
 
 # Welcome
@@ -42,7 +43,7 @@ For the purposes of getting started and on the basis you have neither markdown n
 Work through each of these links to get your tools and environment ready for editing.
 
 - [Prerequisites](./Prerequisites.md)
-- [VS Code - Profile Configuration](./UsingVsCodeForMarkdownEditingAndGitHubSourceControl.md)
+- [VS Code - Profile Configuration](.//ConfigureVsCode-Profile.md)
 
 ## Repos
 
