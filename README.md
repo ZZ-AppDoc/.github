@@ -27,7 +27,8 @@ so that's what gets maintained and sent to people.
 - Download and install GitHub Desktop https://desktop.github.com/download/
 - Download and install VS Code https://code.visualstudio.com/download
 - Create a folder c:\users\{username}\source\zz\AppDoc
-- Don your sandals ;-)- Open a command prompt and enter the following (replace the name!):   
+- Don your sandals :-)
+- Open a command prompt and enter the following (replace the name!):   
   - git config --global user.name "zz-gordoncoulter"   
   - git config --global user.email "gordon.coulter@zenzero.co.uk"  
   - Then check the settings have taken with: git config --list
